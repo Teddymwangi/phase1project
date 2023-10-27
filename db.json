@@ -1,0 +1,85 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "brand": "Toyota",
+        "model": "Corolla 2018",
+        "price": 25000,
+        "description": "The Toyota Corolla is a compact car that offers reliable performance and excellent fuel efficiency.",
+        "image": "https://i.pinimg.com/564x/20/a2/39/20a239a3da1c0080a30d09e3c88b4eab.jpg"
+      },
+      {
+        "id": 2,
+        "brand": "Honda",
+        "model": "Civic 2023",
+        "price": 27000,
+        "description": "The Honda Civic is a popular choice known for its comfortable interior and smooth ride.",
+        "image": "https://i.pinimg.com/736x/33/4e/05/334e0501681135e7ef4a37d070e099d1.jpg"
+      },
+      {
+        "id": 3,
+        "brand": "Ford",
+        "model": "Mustang 2022",
+        "price": 40000,
+        "description": "The Ford Mustang is a classic American muscle car with powerful performance and iconic design.",
+        "image": "https://i.pinimg.com/564x/0a/94/59/0a945982ba6ab00e616bbf74b01c731f.jpg"
+      },
+      {
+        "id": 4,
+        "brand": "Chevrolet",
+        "model": "Malibu 2020",
+        "price": 28000,
+        "description": "The Chevrolet Malibu offers a comfortable ride, spacious interior, and advanced technology features.",
+        "image": "https://i.pinimg.com/564x/d2/22/aa/d222aa578da9529cd039cf4e2f05f98a.jpg"
+      },
+      {
+        "id": 5,
+        "brand": "BMW",
+        "model": "3 Series 2017",
+        "price": 45000,
+        "description": "The BMW 3 Series combines luxury, performance, and cutting-edge technology in one stylish package.",
+        "image": "https://i.pinimg.com/564x/52/96/3b/52963befb413bd4eeefbe0d2e464ced5.jpg"
+      },
+      {
+        "id": 6,
+        "brand": "Mercedes-Benz",
+        "model": "E-Class 2021",
+        "price": 55000,
+        "description": "The Mercedes-Benz E-Class offers a refined interior, advanced safety features, and a smooth ride.",
+        "image": "https://i.pinimg.com/564x/f8/b4/30/f8b4302c4ab287b689d5d77ef4a1dcfe.jpg"
+      },
+      {
+        "id": 7,
+        "brand": "Audi",
+        "model": "A4 2020",
+        "price": 48000,
+        "description": "The Audi A4 combines sporty performance, a luxurious interior, and advanced technology.",
+        "image": "https://i.pinimg.com/564x/4c/5d/84/4c5d844dd64858c1577bd37ee7647d30.jpg"
+      },
+      {
+        "id": 8,
+        "brand": "Nissan",
+        "model": "Altima 2016",
+        "price": 26000,
+        "description": "The Nissan Altima offers a comfortable cabin, smooth ride, and impressive fuel efficiency.",
+        "image": "https://i.pinimg.com/564x/ad/bf/a3/adbfa3df816278f1fbbf4631fdbf1e3b.jpg"
+      },
+      {
+        "id": 9,
+        "brand": "Hyundai",
+        "model": "Elantra 2022",
+        "price": 22000,
+        "description": "The Hyundai Elantra is a practical choice with a spacious interior and user-friendly technology.",
+        "image": "https://i.pinimg.com/564x/3f/77/b7/3f77b7b5cb1c7ee027c54c08f3d9b826.jpg"
+      },
+      {
+        "id": 10,
+        "brand": "Kia",
+        "model": "Optima 2015",
+        "price": 24000,
+        "description": "The Kia Optima offers a comfortable ride, stylish design, and a range of advanced safety features.",
+        "image": "https://i.pinimg.com/564x/e2/b4/3a/e2b43a61e586e9e839638e8e5dd78d75.jpg"
+      }
+    ]
+  }
+  
